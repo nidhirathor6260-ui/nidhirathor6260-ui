@@ -18,10 +18,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 📌 Top Repository
-![](https://github-readme-stats.vercel.app/api/pin/?username=nidhirathor6260-ui&repo=AI-Chatbot-&theme=dark)
-
-
 ## 📊 Contributor Stats
 ![](https://github-contributor-stats.vercel.app/api?username=nidhirathor6260-ui&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
